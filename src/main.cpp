@@ -16,6 +16,18 @@
 #include <PubSubClient.h>
 #include "../secret/password.h"
 
+/*
+secret.h
+#define SSID     "xxxxx"
+#define PASSWORD    "xxxxx"
+#define MQTT_SERVER "xxxxxxx"
+#define MQTT_PORT xxxx
+#define MQTT_USER "xxxxxxx"
+#define MQTT_PASSWORD "xxxxxxxx"
+#define HOSTNAME "xxxxxxxx"
+*/
+
+
 #define PUB_GPIO0_STATUS "vmc_board/status"
 #define SUB_ACTION       "vmc_board/action"
 
