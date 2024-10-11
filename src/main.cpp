@@ -26,7 +26,6 @@ const char* mqttServer   = MQTT_SERVER;
 const int   mqttPort     = MQTT_PORT;
 const char* mqttUser     = MQTT_USER;
 const char* mqttPassword = MQTT_PASSWORD;
-const char* hostnale     = HOSTNAME;
 
 const char* ON  = "on";
 const char* OFF = "off";
