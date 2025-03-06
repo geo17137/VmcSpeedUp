@@ -17,7 +17,7 @@
 #include "../secret/password.h"
 
 /*
-secret.h
+secret/password.h
 #define SSID     "xxxxx"
 #define PASSWORD    "xxxxx"
 #define MQTT_SERVER "xxxxxxx"
